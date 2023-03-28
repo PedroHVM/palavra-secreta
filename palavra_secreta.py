@@ -1,5 +1,5 @@
 import os
-palavra_secreta = 'bia'
+palavra_secreta = 'lorena'
 letras_acertadas = ''
 tentativas = 0
 tentativas_maximas = 10
